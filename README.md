@@ -1,5 +1,5 @@
 [![build](https://github.com/abapGit/icon-font/actions/workflows/build.yml/badge.svg)](https://github.com/abapGit/icon-font/actions/workflows/build.yml)
-
+ 
 # abapGit webfont generator package
 
 Icons in abapGit are displayed using a specially build font. As a default, abapGit uses icons from the free distribution of [Font Awesome](https://fontawesome.com/). When adding other icons mind the license matters please. Glyphs must be licensed for free usage (MIT, CC, SIL OFL).
